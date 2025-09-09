@@ -1,0 +1,6 @@
+# User-specific files
+.vscode/
+.idea/
+
+# User-specific config files
+.vsconfig
