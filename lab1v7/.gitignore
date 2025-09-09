@@ -1,6 +1,13 @@
-# User-specific files
+
+
 .vscode/
 .idea/
+*.user
+*.suo
 
-# User-specific config files
-.vsconfig
+
+bin/
+obj/
+
+*.log
+*.tmp
