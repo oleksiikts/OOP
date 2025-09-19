@@ -1,0 +1,14 @@
+# Ignore build directories for all lab projects
+lab*/bin/
+lab*/obj/
+
+# Ignore IDE specific files and folders
+.vscode/
+.idea/
+*.user
+*.suo
+*.sln
+
+# Ignore log and temp files
+*.log
+*.tmp
