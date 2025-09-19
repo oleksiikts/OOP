@@ -1,0 +1,15 @@
+D:\Alex\education\OOP\OOP-Kupets\OOP-KupetsOleksii\lab2v\bin\Debug\net9.0\lab2v.exe
+D:\Alex\education\OOP\OOP-Kupets\OOP-KupetsOleksii\lab2v\bin\Debug\net9.0\lab2v.deps.json
+D:\Alex\education\OOP\OOP-Kupets\OOP-KupetsOleksii\lab2v\bin\Debug\net9.0\lab2v.runtimeconfig.json
+D:\Alex\education\OOP\OOP-Kupets\OOP-KupetsOleksii\lab2v\bin\Debug\net9.0\lab2v.dll
+D:\Alex\education\OOP\OOP-Kupets\OOP-KupetsOleksii\lab2v\bin\Debug\net9.0\lab2v.pdb
+D:\Alex\education\OOP\OOP-Kupets\OOP-KupetsOleksii\lab2v\obj\Debug\net9.0\lab2v.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alex\education\OOP\OOP-Kupets\OOP-KupetsOleksii\lab2v\obj\Debug\net9.0\lab2v.AssemblyInfoInputs.cache
+D:\Alex\education\OOP\OOP-Kupets\OOP-KupetsOleksii\lab2v\obj\Debug\net9.0\lab2v.AssemblyInfo.cs
+D:\Alex\education\OOP\OOP-Kupets\OOP-KupetsOleksii\lab2v\obj\Debug\net9.0\lab2v.csproj.CoreCompileInputs.cache
+D:\Alex\education\OOP\OOP-Kupets\OOP-KupetsOleksii\lab2v\obj\Debug\net9.0\lab2v.sourcelink.json
+D:\Alex\education\OOP\OOP-Kupets\OOP-KupetsOleksii\lab2v\obj\Debug\net9.0\lab2v.dll
+D:\Alex\education\OOP\OOP-Kupets\OOP-KupetsOleksii\lab2v\obj\Debug\net9.0\refint\lab2v.dll
+D:\Alex\education\OOP\OOP-Kupets\OOP-KupetsOleksii\lab2v\obj\Debug\net9.0\lab2v.pdb
+D:\Alex\education\OOP\OOP-Kupets\OOP-KupetsOleksii\lab2v\obj\Debug\net9.0\lab2v.genruntimeconfig.cache
+D:\Alex\education\OOP\OOP-Kupets\OOP-KupetsOleksii\lab2v\obj\Debug\net9.0\ref\lab2v.dll
