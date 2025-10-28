@@ -1,0 +1,15 @@
+D:\Alex\education\OOP\OOP-Kupets\hw1\bin\Debug\net9.0\hw1.exe
+D:\Alex\education\OOP\OOP-Kupets\hw1\bin\Debug\net9.0\hw1.deps.json
+D:\Alex\education\OOP\OOP-Kupets\hw1\bin\Debug\net9.0\hw1.runtimeconfig.json
+D:\Alex\education\OOP\OOP-Kupets\hw1\bin\Debug\net9.0\hw1.dll
+D:\Alex\education\OOP\OOP-Kupets\hw1\bin\Debug\net9.0\hw1.pdb
+D:\Alex\education\OOP\OOP-Kupets\hw1\obj\Debug\net9.0\hw1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alex\education\OOP\OOP-Kupets\hw1\obj\Debug\net9.0\hw1.AssemblyInfoInputs.cache
+D:\Alex\education\OOP\OOP-Kupets\hw1\obj\Debug\net9.0\hw1.AssemblyInfo.cs
+D:\Alex\education\OOP\OOP-Kupets\hw1\obj\Debug\net9.0\hw1.csproj.CoreCompileInputs.cache
+D:\Alex\education\OOP\OOP-Kupets\hw1\obj\Debug\net9.0\hw1.sourcelink.json
+D:\Alex\education\OOP\OOP-Kupets\hw1\obj\Debug\net9.0\hw1.dll
+D:\Alex\education\OOP\OOP-Kupets\hw1\obj\Debug\net9.0\refint\hw1.dll
+D:\Alex\education\OOP\OOP-Kupets\hw1\obj\Debug\net9.0\hw1.pdb
+D:\Alex\education\OOP\OOP-Kupets\hw1\obj\Debug\net9.0\hw1.genruntimeconfig.cache
+D:\Alex\education\OOP\OOP-Kupets\hw1\obj\Debug\net9.0\ref\hw1.dll
