@@ -99,6 +99,4 @@
 
 ### Скріншот роботи програми
 
-<p align="center">
-  <img src="https://prnt.sc/JQPZKy9BeEuI" alt="Скріншот консолі" />
-</p>
+<p align="center"> <i>![Скріншот консолі](https://prnt.sc/JQPZKy9BeEuI)</i> </p>
