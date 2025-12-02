@@ -124,7 +124,7 @@ SCENARIO 3: Slow Operation (Timeout + Fallback)
 
 -----
 
-<p align="center"> <i>![Скріншот консолі](https://prnt.sc/L4jhVrBrjO3M)</i> </p>
+
 
 
 ## Висновки
@@ -139,7 +139,5 @@ SCENARIO 3: Slow Operation (Timeout + Fallback)
 
 <p align="center"> <i>![Скріншот консолі](https://prnt.sc/L4jhVrBrjO3M)</i> </p>
 
-<!-- end list -->
 
-```
-```
+
